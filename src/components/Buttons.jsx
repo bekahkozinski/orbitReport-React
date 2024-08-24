@@ -1,3 +1,6 @@
+import {satData} from './satData';
+//does the components part need to be there?!!
+
 const Buttons = ({ filterByType, setSat, displaySats }) => {
   return (
     <div>

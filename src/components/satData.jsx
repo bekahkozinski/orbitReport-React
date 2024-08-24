@@ -1,4 +1,4 @@
-const satData = [
+export const satData = [
    {
      id: 1,
      name: "Sirius 1",
