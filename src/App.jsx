@@ -25,6 +25,6 @@ function App() {
       <Table sat={sat}/>
     </div>
   );
-}  
+}   
 
 export default App;
